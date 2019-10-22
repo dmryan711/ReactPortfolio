@@ -200,7 +200,7 @@ export default class About extends Component{
             </div>
           </div>{/* modal-06 End */}
           <div id="modal-07" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
+            <img src="images/profilepic.jpg" alt="" />
             <div className="description-box">
               <h4>Origami</h4>
               <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
