@@ -15,7 +15,7 @@ export default class About extends Component{
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>University of Life</h3>
+                <h3>University at Buffalo</h3>
                 <p className="info">Master in Graphic Design <span>•</span> <em className="date">April 2007</em></p>
                 <p>
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -27,7 +27,7 @@ export default class About extends Component{
             </div> {/* item end */}
             <div className="row item">
               <div className="twelve columns">
-                <h3>School of Cool Designers</h3>
+                <h3>Linkedin</h3>
                 <p className="info">B.A. Degree in Graphic Design <span>•</span> <em className="date">March 2003</em></p>
                 <p>
                   This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
